@@ -1,1 +1,1 @@
-This is some tutorial code for what I thought I was going to learn at my Computing Systems Architecture class at UniBuc FMI (turned out I had to learn 32-bit x86 Assembly).
+This is some code I wrote while learning MIPS for my Computing Systems Architecture class at UniBuc FMI. I began this tutorial before transferring to UniBuc, which means I had no idea that the curriculum had changed and students were actually learning 32-bit x86 Assembly instead of MIPS Assembly.
